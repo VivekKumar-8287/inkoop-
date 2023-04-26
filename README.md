@@ -3,3 +3,7 @@
 ![negative number](https://user-images.githubusercontent.com/104918205/234675779-a4095366-1f17-4d38-8205-89df59816523.jpg)
 ![odd number](https://user-images.githubusercontent.com/104918205/234675770-7b46e802-f960-436d-91fa-b956089ae10b.jpg)
 ![even number](https://user-images.githubusercontent.com/104918205/234675778-5e7c25e5-bd14-4cbd-a137-7df0bd6c94f3.jpg)
+
+
+### https://inkoopinputfield.netlify.app/ click this for 
+[Click here to see live demo of assignment](https://inkoopinputfield.netlify.app/)
