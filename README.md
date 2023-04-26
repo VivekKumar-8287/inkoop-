@@ -1,0 +1,1 @@
+### created a simple UI with one input field that accepts only numbers. if the user types negative number, show "enter a positive number". if the user types an even number, show the next 3 even number.if the user types an odd number, show the next 3 odd numbers.
