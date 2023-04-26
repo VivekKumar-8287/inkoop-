@@ -5,5 +5,4 @@
 ![even number](https://user-images.githubusercontent.com/104918205/234675778-5e7c25e5-bd14-4cbd-a137-7df0bd6c94f3.jpg)
 
 
-### https://inkoopinputfield.netlify.app/ click this for 
-[Click here to see live demo of assignment](https://inkoopinputfield.netlify.app/)
+###[Click here](https://inkoopinputfield.netlify.app/) to see live demo of assignment
