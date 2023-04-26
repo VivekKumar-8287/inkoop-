@@ -21,7 +21,7 @@ function handleInput() {
     }
   } else {
     for (let i = 1; i <= 3; i++) {
-      nextNumbers.push(inputValue + (i * 2 - 1));
+      nextNumbers.push(inputValue + (i * 2 ));
     }
   }
 
